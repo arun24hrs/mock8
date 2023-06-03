@@ -1,0 +1,155 @@
+{
+  "users": [
+    {
+      "username": "arun",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "abc@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "username": "arunrana",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "asd@gmail.com",
+      "password": "asd@123",
+      "id": 2
+    },
+    {
+      "username": "arun",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "abc@gmail.com",
+      "password": "abc@123",
+      "id": 3
+    },
+    {
+      "username": "arunrana",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "abc@gmail.com",
+      "password": "abc@123",
+      "id": 4
+    },
+    {
+      "username": "arun",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "abc@gmail.com",
+      "password": "abc@123",
+      "id": 5
+    },
+    {
+      "username": "arun",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "abc@gmail.com",
+      "password": "abc@123",
+      "id": 6
+    },
+    {
+      "username": "arun",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "abc@gmail.com",
+      "password": "abc@123",
+      "id": 7
+    },
+    {
+      "username": "arun",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "abc@gmail.com",
+      "password": "abc@123",
+      "id": 8
+    },
+    {
+      "username": "arun",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "abc@gmail.com",
+      "password": "abc@123",
+      "id": 9
+    },
+    {
+      "username": "arun",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "abc@gmail.com",
+      "password": "abc@123",
+      "id": 10
+    },
+    {
+      "username": "arunbhai",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "arunbhai@gmail.com",
+      "password": "arunbhai",
+      "id": 11
+    },
+    {
+      "username": "arunbhai",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "arunbhai@gmail.com",
+      "password": "arunbhai",
+      "id": 12
+    },
+    {
+      "username": "arunbhai",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "arunbhai@gmail.com",
+      "password": "arunbhai",
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "username": "arunbhai",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "arun@gmail.com",
+      "password": "arun@123",
+      "id": 15
+    },
+    {
+      "username": "abhi",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "abhi@gmail.com",
+      "password": "abhi@123",
+      "id": 16
+    },
+    {
+      "username": "avi",
+      "email": "avi@gmail.com",
+      "password": "avi@123",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "id": 17
+    },
+    {
+      "username": "avi",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "avi@gmail.com",
+      "password": "avi@132",
+      "id": 18
+    },
+    {
+      "username": "avi",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "avi@gmail.com",
+      "password": "avi@123",
+      "id": 19
+    },
+    {
+      "username": "kaalu",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "kaalu@gmail.com",
+      "password": "kalu@123",
+      "id": 20
+    },
+    {
+      "username": "kaalu",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "kaalu@gmail.com",
+      "password": "kalu@123",
+      "id": 21
+    },
+    {
+      "username": "user",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/002/002/403/original/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "email": "user@gmail.com",
+      "password": "user@123",
+      "id": 22
+    }
+  ],
+  "forum":[]
+}
